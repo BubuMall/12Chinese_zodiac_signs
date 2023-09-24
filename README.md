@@ -1,2 +1,1 @@
-# 12Chinese_zodiac_signs
-一个生肖查询工具
+notice: run `pnpm install clear-module lodash chokidar` while using pnpm.
